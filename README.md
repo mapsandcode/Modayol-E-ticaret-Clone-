@@ -65,3 +65,4 @@ Yerel geliştirme sunucusu kullanmak isterseniz VS Code içindeki **Live Server*
 GitHub: @mapsandcode Instagram: @mapsandcode LinkedIn: https://www.linkedin.com/in/fatmanurcaglar/
 # Modayol-E-ticaret-Clone-
 # Modayol-E-ticaret-Clone-
+# Modayol-E-ticaret-Clone-
